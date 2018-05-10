@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">EditText</string>
+    <string name="et_name_user">Nombre de Usuario</string>
+    <string name="et_password">Contraseña</string>
+    <string name="btn_open_sesion">INICIAR SESION</string>
+    <string name="tv_auttitle">¿No tienes cuenta?</string>
+    <string name="tv_auttitle_link">Crea una aqui</string>
+</resources>
