@@ -3,5 +3,8 @@
     <color name="colorPrimaryDark">#2980B9</color>
     <color name="colorAccent">#FF9800</color>
     <color name="colorPrimary">#5499C7</color>
+    <color name="colorLyric">#000</color>
+    <color name="colorSale">#E74C3C</color>
+    <color name="colorWhite">#fff</color>
 
 </resources>
