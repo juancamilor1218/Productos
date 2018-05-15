@@ -6,5 +6,6 @@
     <color name="colorLyric">#000</color>
     <color name="colorSale">#E74C3C</color>
     <color name="colorWhite">#fff</color>
+    <color name="colorGray">#F2F2F2</color>
 
 </resources>
