@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/EditText.iml" filepath="$PROJECT_DIR$/EditText.iml" />
       <module fileurl="file://C:\Users\ESTEBAN JOJOA\AndroidStudioProjects\Productos2\EditText.iml" filepath="C:\Users\ESTEBAN JOJOA\AndroidStudioProjects\Productos2\EditText.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Productos2.iml" filepath="$PROJECT_DIR$/Productos2.iml" />
+      <module fileurl="file://C:\Users\Acer\AndroidStudioProjects\EditText\Productos2.iml" filepath="C:\Users\Acer\AndroidStudioProjects\EditText\Productos2.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://C:\Users\ESTEBAN JOJOA\AndroidStudioProjects\Productos2\app\app.iml" filepath="C:\Users\ESTEBAN JOJOA\AndroidStudioProjects\Productos2\app\app.iml" />
     </modules>
