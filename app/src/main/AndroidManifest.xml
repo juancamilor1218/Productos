@@ -18,7 +18,7 @@
         </activity>
         <activity android:name=".Profile" />
         <activity android:name=".Home.Repository.View.Home" />
-        <activity android:name=".Home"></activity>
+        <activity android:name=".Products.View.Home"></activity>
     </application>
 
 </manifest>

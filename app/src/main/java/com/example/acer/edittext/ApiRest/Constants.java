@@ -6,5 +6,5 @@ package com.example.acer.edittext.ApiRest;
 
 public class Constants {
     public static final String ROOT_URL="https://exampleapirest.herokuapp.com/";
-    public static final String URL_GET_PRODUCTS="warehouse";
+    public static final String URL_GET_PRODUCTS= "warehouse";
 }
